@@ -16,6 +16,6 @@ Objectives
 
 3. Now, we will write the function that will use these three functions as callbacks:
 
-	Write a function that accepts a CALLBACK as an argument. The function should perform some calculation, assign the result of that calculation to a variable, and then pass that variable to its callback.
+	Write a function that accepts a CALLBACK as an argument. The function should perform some mathematical calculation, assign the result of that calculation to a variable, and then pass that variable to its callback.
 
 4. Try calling this last function three times, with each of your three initial functions as its callback. What are the results?
